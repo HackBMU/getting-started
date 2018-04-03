@@ -13,8 +13,4 @@ Photography is encouraged, but other participants must be given a reasonable cha
 ## Action & Reporting
 If a participant engages in any of the aforementioned activities, HackBMU may take any action that they deem appropriate, including warning the offender or expulsion from the event. HackBMU representatives will be happy to help participants contact campus security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance. We expect participants to follow these rules at all hackathon venues, online interactions in relation to the event, hackathon-related social events, and on hackathon supplied transportation.
 
-If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous.
-* Email
-    * Khushhal Maheshwari – 78770091450/ khushhal.maheshwari.15ece@bml.edu.in
-    * Nirmal Dalmia – 8790021019/ nirmal.dalmia.16cse@bml.edu.in
-* Slack
+If you feel uncomfortable or think there may be a potential violation of the code of conduct, please [report it immediately](contact.md "Contact") to one of the organizers. All reporters have the right to remain anonymous.

@@ -3,7 +3,19 @@
 HackBMU is taking place at BML Munjal University, and here are all the ways to reach the venue.
 
 ## Shuttle Services
-We are in process to arrange shuttle services from Iffco Chowk Metro to BML Munjal University. Keeping watching this space for updates.
+We have arranged for Shuttle Services from Iffco Chowk Metro Station to BML Munjal University. There will be busses waiting to pick you up right outside the Metro Station. The cost for the Shuttle is ₹150 to-and-fro and ₹80 for one-side, per person. You are required to pay the ammount via PayTM or UPI (details below) and fill this [Google Form](https://goo.gl/forms/27phlYjaaNJNE0aA3 "Google Form") including the Transaction ID. You will recieve a confirmation email for the same.
+
+- UPI
+    - akshatmittal@upi
+    - akshatmittal@paytm
+    - 7877091450@paytm
+    - khushhalmaheshwari@dbs
+    - khushhalmaheshwari@upi
+- PayTM
+    - +91 98718 10789 (Akshat Mittal)
+    - +91 78770 91450 (Khushhal Maheshwari)
+
+Google Form to be filled after payment: https://goo.gl/forms/27phlYjaaNJNE0aA3
 
 ## Location
 BML Munjal University is situated in the outskirts of Gurgaon, Haryana. The closest metro is Iffco Chowk Metro Station. Here is a link to the location on Google Maps in case you plan on driving to the venue: [BML Munjal University](https://goo.gl/maps/Qa5qUC8Hzyv).
@@ -13,7 +25,7 @@ There are several ways to reach the venue, some of which are listed below.
 
 * Public Transport
     * The closest Metro station is Iffco Chowk Metro station and can choose to take the Bus from there which leaves every 15 mins. Please ask the conductor of the bus to drop you at Raman Munjal School or BML Munjal University.
-    * We are in process of arranging the shuttle services from Iffco Chowk Metro Station to the venue, keep watching this space for updates.
+    * Shuttle Services are available, kindly look at the section above.
 * Private Transport
     * Ola & Uber services are available to the venue in case you choose to opt for one.
     * Parking for vehicles is not available inside the campus.

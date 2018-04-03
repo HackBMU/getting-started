@@ -8,6 +8,7 @@ Welcome to HackBMU. Here we have put together all the information you'll need be
 - [Judging Criteria](judging.md "Judging Criteria")
 - [Mentors](mentors.md "Mentors")
 - [Judges](judges.md "Judges")
+- [Contact](contact.md "Contact")
 
 # Contact
 In case of any queries, you can contact us through [Messenger](https://www.facebook.com/hackbmu/ "Messenger") or Slack (on venue).
