@@ -17,7 +17,7 @@ You can call us at any of the following numbers:
 - Nirmal Dalmia: +91 87083 49747
 
 ## Slack
-You can reach us in the #general channel or Slack, or direcly DM the organizers.
+You can reach us in the #general channel on [Slack](https://hackbmu.slack.com/ "Slack"), or direcly DM the organizers.
 
 ## Messenger
 You can also reach us via Facebook using the Messenger bot on our website, or directly sending a message through our [Facebook page](https://www.facebook.com/HackBMU "Facebook").
