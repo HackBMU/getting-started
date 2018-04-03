@@ -4,6 +4,7 @@ Welcome to HackBMU. Here we have put together all the information you'll need be
 
 - [Code of Conduct](code-of-conduct.md "Code of Conduct")
 - [Rules & Regulations](rules.md "Rules & Regulations")
+- [General Checklist](checklist.md "Checklist")
 - [Transportation](transportation.md "Transportation")
 - [Judging Criteria](judging.md "Judging Criteria")
 - [Mentors](mentors.md "Mentors")

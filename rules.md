@@ -16,6 +16,7 @@ All teams must follow the rules mentioned below, failing to do so will lead to d
 - Teams can be disqualified from the competition at organizers discretion. Reasons might include breaking the Competition Rules, Code of Conduct, or other unsporting behaviour.
 - Prizes are subject to change without prior notice.
 - All team members should be present at the event.
+- Decision of the organizers in any matter will be final and binding.
 
 ## Demo
 After hacking finishes, teams will be required to show their projects to the judges. You are strongly encouraged to present a demo of what you have built. Pitches are discouraged, as you are judged on what you have built. You are encouraged to present what you have done even if your hack is broken or you weren't able to finish. It's okay if you didn't finish your hack — that happens all the time! Completion is only one part of the judging criteria, so you might still do well.
