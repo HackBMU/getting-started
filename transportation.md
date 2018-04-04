@@ -3,7 +3,7 @@
 HackBMU is taking place at BML Munjal University, and here are all the ways to reach the venue.
 
 ## Shuttle Services
-We have arranged for Shuttle Services from Iffco Chowk Metro Station to BML Munjal University. There will be busses waiting to pick you up right outside the Metro Station. The cost for the Shuttle is ₹150 to-and-fro and ₹80 for one-side, per person. You are required to pay the ammount via PayTM or UPI (details below) and fill this [Google Form](https://goo.gl/forms/27phlYjaaNJNE0aA3 "Google Form") including the Transaction ID. You will recieve a confirmation email for the same.
+We have arranged for Shuttle Services from Iffco Chowk Metro Station to BML Munjal University. There will be busses waiting to pick you up right outside the Metro Station. The cost for the Shuttle is ₹100 to-and-fro, per person. You are required to pay the ammount via PayTM or UPI (details below) and fill this [Google Form](https://goo.gl/forms/27phlYjaaNJNE0aA3 "Google Form") including the Transaction ID. You will recieve a confirmation email for the same.
 
 - UPI
     - akshatmittal@upi
