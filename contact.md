@@ -1,6 +1,6 @@
 [![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # Contact
-There are multiple ways to contact us before and during the hackathon, some of which are listed below. In case of any critial emergency during the hackathon, we recommend you to either directly call the organizers or ask one of our team members for help.
+There are multiple ways to contact us before and during the hackathon, some of which are listed below. In case of any critical emergency during the hackathon, we recommend you to either directly call the organizers or ask one of our team members for help.
 
 ## Email
 You can reach us at the following emails:

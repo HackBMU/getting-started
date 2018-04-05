@@ -21,8 +21,8 @@ Things that highly depend on you:
 
 - If you feel cold in ACs, we'd recommend you to carry a jacket with you
 - A change of clothes (optional)
-- Extentions will be available on campus, but carry one just in case
-- Watter Bottle
+- Extensions will be available on campus, but carry one just in case
+- Water Bottle
 - Items for personal hygiene
 
 ## Things you should NOT carry

@@ -1,6 +1,6 @@
 [![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # Judging Criteria
-Teams will be judged on the following criterias. Judges will weigh each of the criterias equally. During judging, participants should try to describe what they did for each criterion in their project.
+Teams will be judged on the following criteria. Judges will weigh each of the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
 
 ## Technology
 How technically impressive was the hack? Was the technical problem the team tackled difficult? Did they use a particularly clever technique or did they use many different components?
