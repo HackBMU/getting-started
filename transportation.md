@@ -25,7 +25,7 @@ There are several ways to reach the venue, some of which are listed below.
 
 * Public Transport
     * The closest Metro station is Iffco Chowk Metro station and can choose to take the Bus from there which leaves every 15 mins. Please ask the conductor of the bus to drop you at Raman Munjal School or BML Munjal University.
-    * Shuttle Services are available, kindly look at the section above.
+    <!--* Shuttle Services are available, kindly look at the section above.-->
 * Private Transport
     * Ola & Uber services are available to the venue in case you choose to opt for one.
     * Parking for vehicles is not available inside the campus.
