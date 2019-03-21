@@ -17,7 +17,7 @@ You can call us at any of the following numbers:
 - Saksham Goyal: +91 99966 03991
 
 ## Slack
-You can reach us in the #general channel on [Slack](https://hackbmu.slack.com/ "Slack"), or directly DM the organizers.
+You can reach us in the #general channel on [Zulip Chat](https://hackbmu.zulipchat.com/join/ettq7r4r0ysfrrzliocxtobh/ "Zulip Chat"), or directly DM the organizers.
 
 ## Messenger
 You can also reach us via Facebook using the Messenger bot on our website, or directly sending a message through our [Facebook page](https://www.facebook.com/HackBMU "Facebook").
