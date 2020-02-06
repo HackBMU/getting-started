@@ -12,7 +12,7 @@ Welcome to HackBMU. Here we have put together all the information you'll need be
 - [Contact](contact.md "Contact")
 
 # Contact
-In case of any queries, you can contact us through [Messenger](https://www.facebook.com/hackbmu/ "Messenger") or Slack (on venue).
+In case of any queries, you can contact us through [Messenger](https://www.facebook.com/hackbmu/ "Messenger") or Twist (on venue).
 
 # Disclaimer
 HackBMU reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
