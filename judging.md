@@ -1,4 +1,3 @@
-[![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # Judging Criteria
 Teams will be judged on the following criteria. Judges will weigh each of the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
 
