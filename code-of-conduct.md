@@ -1,4 +1,3 @@
-[![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # Code of Conduct
 HackBMU stands for making the world a better place, through hacking of course! And this includes goodwill toward your peers. HackBMU does not tolerate any kind of harassment, violence or any form of unethical activity.
 
