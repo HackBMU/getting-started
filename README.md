@@ -1,4 +1,4 @@
-[![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
+[![HackBMU](assets/Hacklogo.svg "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # Getting Started with HackBMU
 Welcome to HackBMU. Here we have put together all the information you'll need before and during HackBMU. Please go through the information and let us know in case of any queries.
 
