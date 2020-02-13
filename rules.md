@@ -1,9 +1,8 @@
-[![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # Rules & Regulations
 All teams must follow the rules mentioned below, failing to do so will lead to direct disqualification.
 
 ## Rules
-- The teams may comprise of 1 - 4 members.
+- The teams may comprise of 2 - 4 members.
 - Teams should be made up exclusively of students or recent graduates within 2 years of having graduation who are in no way related to organizers, volunteers, judges, sponsors, or in any other privileged position at the event.
 - A valid student ID card is required to attend the hackathon.
 - Make sure you are upholding the hacker spirit by collaborating, sharing, helping beginners, and having fun.
