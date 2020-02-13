@@ -1,4 +1,3 @@
-[![HackBMU](assets/HackBMU.png "HackBMU")](https://hackbmu.67thmilestone.com "HackBMU")
 # General Checklist
 Here's a general checklist you should follow before coming to HackBMU.
 
